@@ -15,7 +15,8 @@ using System.Media;
 //Square Chaser
 //Valentina Montoya
 //ISC3U
-//(insert description)
+// 2 player game in which you are supposed to get the yellow points while avoiding the magenta moving square.
+// First to 10 wins!
 
 namespace Square_Chaser
 {
